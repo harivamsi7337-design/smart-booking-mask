@@ -1,0 +1,9 @@
+{
+  "name": "smart-booking-mask",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo \"no build step (serverless functions only)\"",
+    "start": "echo \"Use 'vercel dev' or deploy on Vercel\""
+  }
+}
